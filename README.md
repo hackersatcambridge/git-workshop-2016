@@ -34,7 +34,7 @@ Go here: https://git-scm.com/download/linux
 
 If you are on Windows, for simplicity, open bash-for-windows and type:
 ```
-git config core.editor notepad
+git config --global core.editor notepad
 ```
 This is also demonstrated in the [video tutorial](https://youtube.com)
 
