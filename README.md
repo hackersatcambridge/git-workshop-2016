@@ -5,7 +5,7 @@ This file is in a repo which is being used as a hands-on example in the Hackers
 at Cambridge Git Workshop 2016. You can find the slides of the presentation [here](https://codepen.io/Moosichu/pen/XNpOeg).
 
 Please give feedback on the workshop at:
-[http://goo.gl/forms/zZmpEDifPZ](http://goo.gl/forms/zZmpEDifPZ)
+[https://goo.gl/forms/wl5QwTJoFYIXDpgc2](https://goo.gl/forms/wl5QwTJoFYIXDpgc2)
 
 Please follow the setup below before the workshop takes place!
 
