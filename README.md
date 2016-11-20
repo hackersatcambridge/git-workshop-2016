@@ -36,7 +36,7 @@ If you are on Windows, for simplicity, open bash-for-windows and type:
 ```
 git config --global core.editor notepad
 ```
-This is also demonstrated in the [video tutorial](https://youtube.com)
+This is also demonstrated in the [video tutorial](https://youtu.be/fUgs2hOpmFI)
 
 If you are other platforms, the choices available are a lot more flexible.
 
@@ -70,7 +70,7 @@ work.
 
 ### Setting up the project for the workshop
 
-Follow along with [this](https://youtube.com) video to setup everything you need
+Follow along with [this](https://youtu.be/fUgs2hOpmFI) video to setup everything you need
 for the workshop, the steps are also listed below.
 
 1. Create an account on Github.
